@@ -1,0 +1,69 @@
+{
+    "cars_data1": {
+        "295": {
+            "Model": "bmw",
+            "İstehsal tarixi": 2009,
+            "Yürüşü": 10000,
+            "Mühərrik həcmi": 5.2,
+            "Sahibin kimliyi": "izzet agayev",
+            "Fin": "iuendu7",
+            "Nömrə": "99-AG-111",
+            "Rəng": "qirmizi",
+            "Qiymət": 100000
+        },
+        "268": {
+            "Model": "a",
+            "İstehsal tarixi": 3,
+            "Yürüşü": 3333,
+            "Mühərrik həcmi": 1.5,
+            "Sahibin kimliyi": "asd",
+            "Fin": "asdasbb",
+            "Nömrə": "00-OO-000",
+            "Rəng": "asd",
+            "Qiymət": 2
+        },
+        "424": {
+            "Model": "sad",
+            "İstehsal tarixi": 23,
+            "Yürüşü": 23,
+            "Mühərrik həcmi": 2.0,
+            "Sahibin kimliyi": "Sdafdf",
+            "Fin": "DDDDDDD",
+            "Nömrə": "36-IZ-000",
+            "Rəng": "dsffg",
+            "Qiymət": 10000
+        }
+    },
+    "cars_data2": {
+        "295": {
+            "Marka": "F10",
+            "Model": "bmw",
+            "Yürüşü": 10000,
+            "Mühərrik həcmi": 5.2,
+            "Nömrə": "99-AG-111",
+            "Rəng": "qirmizi",
+            "Qiymət": 100000,
+            "Müştəridədir": "Bəli"
+        },
+        "268": {
+            "Marka": "lll",
+            "Model": "a",
+            "Yürüşü": 3333,
+            "Mühərrik həcmi": 1.5,
+            "Nömrə": "00-OO-000",
+            "Rəng": "asd",
+            "Qiymət": 2,
+            "Müştəridədir": "Xeyir"
+        },
+        "424": {
+            "Marka": "sdf",
+            "Model": "sad",
+            "Yürüşü": 23,
+            "Mühərrik həcmi": 2.0,
+            "Nömrə": "36-IZ-000",
+            "Rəng": "dsffg",
+            "Qiymət": 10000,
+            "Müştəridədir": "Bəli"
+        }
+    }
+}
